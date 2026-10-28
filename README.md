@@ -3,7 +3,8 @@ This repository explores the application of chemical engineering principles usin
 
 ## List of Works
 - ✅ **Multistage Countercurrent Liquid-Liquid Extraction**
-- ⏳ **Binary Distillation** *(Ongoing)*
+- ✅ **Binary Distillation**
+- ⏳ **Gas-Liquid Absorption** *(Ongoing)*
 
 ## References
 - Seader, J. D., Henley, E. J., & Roper, D. K. (2016). Separation process principles with applications using process simulators (4th ed.). John Wiley & Sons, Inc.
